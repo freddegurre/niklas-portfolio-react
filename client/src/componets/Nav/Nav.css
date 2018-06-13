@@ -1,0 +1,19 @@
+.header {
+    color: #ebb830; 
+    font-family: "Arial Black", "Arial Bold", sans-serif; 
+    
+}
+.nav-link{
+    color: lightgray;
+}
+.nav-link:hover { 
+    color: #934434;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.navbar-toggler-icon {
+    color: #934434
+}

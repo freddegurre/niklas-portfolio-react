@@ -1,0 +1,10 @@
+.Blog-bg {
+    background: url(../../Assets/Blog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 16%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
